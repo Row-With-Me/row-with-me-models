@@ -1,0 +1,11 @@
+Model Information:
+* title:	Row Boat
+* source:	https://sketchfab.com/3d-models/row-boat-1152ce68ca0e4e78bbd93a10c47056e5
+* author:	Sk1ttle (https://sketchfab.com/Sk1ttle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Row Boat" (https://sketchfab.com/3d-models/row-boat-1152ce68ca0e4e78bbd93a10c47056e5) by Sk1ttle (https://sketchfab.com/Sk1ttle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
